@@ -11,5 +11,5 @@
 {/if}
 
 {#if type === 'component2'}
-    <img class='w-full' src={src} alt='Main Image'/>
+    <img class='flex h-[186px] justify-center items-center self-stretch rounded-t-2xl' src={src} alt='Main Image'/>
 {/if}
